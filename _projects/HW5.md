@@ -1,0 +1,4 @@
+https://us.prairielearn.com/pl/workspace/2894158/container/lab/tree/RTC%3Asilly%20little%20viz.ipynb
+For the first plot, I was trying to show the different UV index values by using a mark line plot. The X axis was based in the years, and the Y axis was based on the value of the UV index. The color of the lines were based on the different seasons. I tried to make it interactive by allowing the user to pick a single season in a drop down menu for a more clear visual on a specific season. I kept the color scheme, because I thought it was distinct and worked for the visual. 
+
+For the 2nd plot, I tried to visualize the different wind speeds by using a heat map. The x axis was based on the days of the month and the Y axis was based on the month of year. The color bar was based on the windspeeds. I tried to keep it as simple as possible, and I think it gets the message across. 
